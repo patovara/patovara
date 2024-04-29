@@ -1,6 +1,12 @@
 # Hi there, I'm Pato Vara 👋
+### About Me
+- CEO VGLASHARTIST
+- Cancun, Qroo.
+- @pato_vara
+  
+Hi, I'm a software engineer, bussiness man and soccer player. I want to back to develop software therefore I joined to MIT xPro to gain experience and knowledge. 
 
-### Techonologies I use:
+## Techonologies I use:
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVASCRIPT">
@@ -14,11 +20,11 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="TRELLO">
 
 
-### My Projects
-My first Portfolio [Portfolio](https://github.com/patovara/portafolio_patovara)
-[Pokedex](https://github.com/patovara/pokedex)
-[Weather app](https://github.com/patovara/aplicacion_clima_js)
-Real Estate webpage [Realtoskeys](https://realtorskeys.com)
+## My Projects
+- My first Portfolio [Portfolio](https://github.com/patovara/portafolio_patovara)
+- [Pokedex](https://github.com/patovara/pokedex)
+- [Weather app](https://github.com/patovara/aplicacion_clima_js)
+- Real Estate webpage [Realtoskeys](https://realtorskeys.com)
 
 <!--
 **patovara/patovara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
