@@ -22,6 +22,9 @@ Hi, I'm a software engineer, bussiness man and soccer player. I want to back to 
 
 
 ## My Projects
+- Colegio Británico de Cancun [Education Site](https://cbtianico.edu.mx)
+- Programa Permanente de Educación y Cambio Climático [PPECC](https://ppecc.com.mx)
+- VibesMarketing360 (https://vibesmarketing360.com)
 - My first Portfolio [Portfolio](https://github.com/patovara/portafolio_patovara)
 - [Pokedex](https://github.com/patovara/pokedex)
 - [Weather app](https://github.com/patovara/aplicacion_clima_js)
